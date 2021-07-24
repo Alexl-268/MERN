@@ -10,7 +10,7 @@ function TinderCards() {
         },
         {
             name : "IU",
-            url: "https://64.media.tumblr.com/6753e270f1ab27f750b917a375ebcfdc/tumblr_oorl87DMIf1reeyqoo4_250.png"
+            url: "https://wallpaperaccess.com/full/1099278.png"
         }
    
     ]);
