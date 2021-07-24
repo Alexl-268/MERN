@@ -3,7 +3,7 @@ import "./TinderCards.css";
 import TinderCard from "react-tinder-card";
 
 function TinderCards() {
-    const [people, setPeople] = useState([
+    const [people] = useState([
         {
             name :"Tzuyu",
             url: "https://i.pinimg.com/originals/9d/1a/f3/9d1af3f998bedd9b20fb992d8445e96f.jpg"
