@@ -5,12 +5,12 @@ import TinderCard from "react-tinder-card";
 function TinderCards() {
     const [people] = useState([
         {
-            name :"Tzuyu",
-            url: "https://i.pinimg.com/originals/9d/1a/f3/9d1af3f998bedd9b20fb992d8445e96f.jpg"
+            name :"2",
+            url: "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.clker.com%2Fclipart-two-6.html&psig=AOvVaw2SbyQEPhrSBmOEpGWGsJex&ust=1631324479626000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDfmLOj8_ICFQAAAAAdAAAAABAD"
         },
         {
-            name : "IU",
-            url: "https://wallpaperaccess.com/full/1099278.png"
+            name : "1",
+            url: "https://www.drupal.org/files/styles/grid-3-2x/public/project-images/edit%2827117%29.png?itok=MZVr8CB5"
         }
    
     ]);
